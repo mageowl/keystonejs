@@ -1,2 +1,2 @@
-# keystonejs
-A JS framework for defining keywords
+# KeystoneJS
+A JavaScript framework for defining keywords
